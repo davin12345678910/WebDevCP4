@@ -1,0 +1,27 @@
+/*
+  Name: Davin Win Kyi
+  Date: April 17th, 2022
+  Section: CSE 154 AH
+  This is the CSS for the taskss manager program which I am making.
+  This will help with the aesthetics of the overall webpage
+*/
+
+/* These are thestyles for the whole body */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* These are thestyles for the header/title */
+#title {
+  font-size: 40px;
+}
+
+/* This to hide the list */
+.hide_list {
+  display: none;
+}
+
+/* This is to make the errorText red */
+.error_color {
+  color: red;
+}
